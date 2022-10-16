@@ -63,6 +63,7 @@ Creation of a small java program that reads a file containing numbers and analyz
 ## 🎯 Objectives <a id="objectives"></a>
 - Practice java Exceptions
 - Understand which exceptions can be thrown by a program
+- Define new types of exceptions
 - Understand who detects errors (here Scanner constructor)
 - Understand which exception can be thrown by the Scanner class
 - Understand who interacts with the exceptions (here the main method in DataAnalizer)
